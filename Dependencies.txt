@@ -1,0 +1,5 @@
+Dependencias para firebase
+-npm install --save rxjs-compat
+-npm install grpc@1.11.3 --save
+--Module Mapas--
+-npm i @agm/core
